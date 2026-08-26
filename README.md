@@ -19,7 +19,7 @@ meaningful insights, dashboards and business solutions.
 
 ## 💻 Tech Stack
 
-### 📊 Data Analytics & Business Intelligence (updated)
+### 📊 Data Analytics & Business Intelligence
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iYmxhY2siPjxwYXRoIGQ9Ik00IDEwaDN2MTFINHpNOSA1aDN2MTZIOXpNMTQgMTNoM3Y4aC0zek0xOSAyaDN2MTloLTN6Ii8%2BPC9zdmc%2B&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -30,7 +30,7 @@ meaningful insights, dashboards and business solutions.
   <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNNCAxMmE4IDggMCAwIDEgMTQtNS4zIiAvPjxwb2x5bGluZSBwb2ludHM9IjE4LDMgMTgsNyAxNCw3IiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJub25lIi8%2BPHBhdGggZD0iTTIwIDEyYTggOCAwIDAgMS0xNCA1LjMiIC8%2BPHBvbHlsaW5lIHBvaW50cz0iNiwyMSA2LDE3IDEwLDE3IiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJub25lIi8%2BPC9zdmc%2B&logoColor=white" />
 </p>
 
-### 🐍 Python & Data Science (updated)
+### 🐍 Python & Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -38,13 +38,13 @@ meaningful insights, dashboards and business solutions.
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cG9seWxpbmUgcG9pbnRzPSIyLDIwIDcsOCAxMSwxNSAxNSw2IDIyLDE4IiAvPjwvc3ZnPg%3D%3D&logoColor=white" />
 </p>
 
-### 🌐 Web Technologies (updated)
+### 🌐 Web Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjE3IiBmb250LXNpemU9IjE1IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXdlaWdodD0iYm9sZCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0id2hpdGUiPnsgfTwvdGV4dD48L3N2Zz4%3D&logoColor=white" />
 </p>
 
-### 🏢 Enterprise Technologies (updated)
+### 🏢 Enterprise Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/Pega-00AEEF?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAybDMgNS0zIDUtMy01IDMtNXpNNCAxMmwzIDUtMyA1LTMtNSAzLTV6TTIwIDEybDMgNS0zIDUtMy01IDMtNXpNMTIgMTJsMyA1LTMgNS0zLTUgMy01eiIvPjwvc3ZnPg%3D%3D&logoColor=white" />
   <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyYTcgNyAwIDAwLTcgN2MwIDMgMiA0IDIgN2E3IDcgMCAwMDE0IDBjMC0zIDItNCAyLTdhNyA3IDAgMDAtNy03em0wIDRhMyAzIDAgMTEwIDYgMyAzIDAgMDEwLTZ6Ii8%2BPC9zdmc%2B&logoColor=white" />
