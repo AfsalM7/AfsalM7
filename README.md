@@ -52,6 +52,4 @@ meaningful insights, dashboards and business solutions.
 
 
 ## 📂 Featured Projects:
-📊 Sales Performance Dashboard
-🌍 COVID-19 Global Data Analysis
-🏢 HUMAN Resource Attrition Analysis
+Welcome to my portfolio, where I showcase my [projects](https://github.com/AfsalM7/Afsal-Portfolio)
